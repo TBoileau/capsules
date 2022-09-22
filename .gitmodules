@@ -1,0 +1,15 @@
+[submodule "src/router"]
+	path = src/router
+	url = git@github.com:TBoileau/capsule-router.git
+[submodule "src/observer-pattern"]
+	path = src/observer-pattern
+	url = git@github.com:TBoileau/capsule-observer-pattern.git
+[submodule "src/dependency-injection-pattern"]
+	path = src/dependency-injection-pattern
+	url = git@github.com:TBoileau/capsule-dependency-injection-pattern.git
+[submodule "src/symfony-collection"]
+	path = src/symfony-collection
+	url = git@github.com:TBoileau/capsule-symfony-collection.git
+[submodule "src/strategy-pattern"]
+	path = src/strategy-pattern
+	url = git@github.com:TBoileau/capsule-strategy-pattern.git
